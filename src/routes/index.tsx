@@ -24,13 +24,13 @@ import { useApp } from "@/lib/data/store";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Book Swap SA — Buy, Sell & Swap University Textbooks" },
+      { title: "Textbook Swap SA — Buy, Sell & Swap University Textbooks" },
       {
         name: "description",
         content:
           "Buy, sell and swap second-hand textbooks with fellow South African students — affordable, simple and built for campus life.",
       },
-      { property: "og:title", content: "Book Swap SA — Student Textbook Marketplace" },
+      { property: "og:title", content: "Textbook Swap SA — Student Textbook Marketplace" },
       {
         property: "og:description",
         content: "Affordable second-hand textbooks from students on your campus.",
@@ -148,7 +148,7 @@ function Welcome() {
 
       {/* Values */}
       <section className="mx-auto max-w-6xl px-5 py-20">
-        <h2 className="text-center text-3xl font-bold text-primary">Why Students Choose Book Swap SA</h2>
+        <h2 className="text-center text-3xl font-bold text-primary">Why Students Choose Textbook Swap SA</h2>
         <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {values.map((v) => (
             <div key={v.title} className="card-surface hover-lift p-6">
@@ -165,7 +165,7 @@ function Welcome() {
       {/* How it works */}
       <section className="border-y border-border bg-card/60">
         <div className="mx-auto max-w-6xl px-5 py-20">
-          <h2 className="text-center text-3xl font-bold text-primary">How Book Swap SA Works</h2>
+          <h2 className="text-center text-3xl font-bold text-primary">How Textbook Swap SA Works</h2>
           <ol className="relative mt-12 grid gap-8 md:grid-cols-4">
             <div className="absolute left-[12%] right-[12%] top-7 hidden h-px bg-gradient-to-r from-primary/10 via-gold/60 to-primary/10 md:block" />
             {steps.map((s) => (
@@ -199,7 +199,7 @@ function Welcome() {
       <footer className="border-t border-border py-8">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-5 text-sm text-muted-foreground sm:flex-row">
           <BrandLogo />
-          <p>© 2026 Book Swap SA · A student project</p>
+          <p>© 2026 Textbook Swap SA · A student project</p>
         </div>
       </footer>
     </div>

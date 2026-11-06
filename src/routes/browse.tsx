@@ -34,13 +34,13 @@ export const Route = createFileRoute("/browse")({
   }),
   head: () => ({
     meta: [
-      { title: "Browse textbooks — Book Swap SA" },
+      { title: "Browse textbooks — Textbook Swap SA" },
       {
         name: "description",
         content:
           "Search and filter second-hand university textbooks by module, category, condition and campus.",
       },
-      { property: "og:title", content: "Browse textbooks — Book Swap SA" },
+      { property: "og:title", content: "Browse textbooks — Textbook Swap SA" },
       { property: "og:description", content: "Find affordable used textbooks listed by students." },
     ],
   }),

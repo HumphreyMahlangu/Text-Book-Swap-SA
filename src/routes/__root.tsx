@@ -90,14 +90,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Book Swap SA" },
+      { title: "Textbook Swap SA" },
       {
         name: "description",
         content:
           "A South African student book swapping and textbook marketplace app to buy, sell, and trade course books.",
       },
-      { name: "author", content: "Book Swap SA" },
-      { property: "og:title", content: "Book Swap SA" },
+      { name: "author", content: "Textbook Swap SA" },
+      { property: "og:title", content: "Textbook Swap SA" },
       {
         property: "og:description",
         content:
@@ -112,7 +112,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         rel: "stylesheet",
         href: appCss,
       },
-      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      { rel: "icon", href: "/textbook-swap-sa.jpeg", type: "image/jpeg" },
     ],
   }),
   shellComponent: RootShell,

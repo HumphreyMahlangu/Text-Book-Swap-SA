@@ -15,12 +15,12 @@ import type { Order } from "@/lib/data/types";
 export const Route = createFileRoute("/checkout")({
   head: () => ({
     meta: [
-      { title: "Checkout — Book Swap SA" },
+      { title: "Checkout — Textbook Swap SA" },
       {
         name: "description",
         content: "Student checkout for arranging textbook collection or campus delivery.",
       },
-      { property: "og:title", content: "Checkout — Book Swap SA" },
+      { property: "og:title", content: "Checkout — Textbook Swap SA" },
       {
         property: "og:description",
         content: "Place a textbook order using card, collection, or EFT payment.",

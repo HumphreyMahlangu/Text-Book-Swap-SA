@@ -48,12 +48,12 @@ export const Route = createFileRoute("/swaps")({
     typeof search["target"] === "string" ? { target: search["target"] } : {},
   head: () => ({
     meta: [
-      { title: "Textbook Swaps — Book Swap SA" },
+      { title: "Textbook Swaps — Textbook Swap SA" },
       {
         name: "description",
         content: "Trade university textbooks course-for-course with students on campus.",
       },
-      { property: "og:title", content: "Textbook Swaps — Book Swap SA" },
+      { property: "og:title", content: "Textbook Swaps — Textbook Swap SA" },
       {
         property: "og:description",
         content: "Propose and manage textbook swap requests with fellow students.",

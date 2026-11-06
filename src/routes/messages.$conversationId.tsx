@@ -13,12 +13,12 @@ import { cn } from "@/lib/utils";
 export const Route = createFileRoute("/messages/$conversationId")({
   head: () => ({
     meta: [
-      { title: "Chat — Book Swap SA" },
+      { title: "Chat — Textbook Swap SA" },
       {
         name: "description",
         content: "Chat directly with a student seller or buyer to arrange a textbook meetup.",
       },
-      { property: "og:title", content: "Chat — Book Swap SA" },
+      { property: "og:title", content: "Chat — Textbook Swap SA" },
     ],
   }),
   component: () => (

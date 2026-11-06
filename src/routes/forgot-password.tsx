@@ -11,12 +11,12 @@ import { useDisplayPreferences } from "@/lib/display-preferences";
 export const Route = createFileRoute("/forgot-password")({
   head: () => ({
     meta: [
-      { title: "Reset password — Book Swap SA" },
+      { title: "Reset password — Textbook Swap SA" },
       {
         name: "description",
-        content: "Request a secure password reset link for your Book Swap SA account.",
+        content: "Request a secure password reset link for your Textbook Swap SA account.",
       },
-      { property: "og:title", content: "Reset password — Book Swap SA" },
+      { property: "og:title", content: "Reset password — Textbook Swap SA" },
     ],
   }),
   component: ForgotPasswordPage,

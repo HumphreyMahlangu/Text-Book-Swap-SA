@@ -13,12 +13,12 @@ import { cn } from "@/lib/utils";
 export const Route = createFileRoute("/notifications")({
   head: () => ({
     meta: [
-      { title: "Notifications — Book Swap SA" },
+      { title: "Notifications — Textbook Swap SA" },
       {
         name: "description",
         content: "Stay updated with swap requests, textbook orders, and chat messages.",
       },
-      { property: "og:title", content: "Notifications — Book Swap SA" },
+      { property: "og:title", content: "Notifications — Textbook Swap SA" },
       {
         property: "og:description",
         content: "Campus textbook marketplace notifications and alerts.",

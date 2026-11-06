@@ -55,13 +55,13 @@ import {
 export const Route = createFileRoute("/profile")({
   head: () => ({
     meta: [
-      { title: "Student Profile — Book Swap SA" },
+      { title: "Student Profile — Textbook Swap SA" },
       {
         name: "description",
         content:
           "Manage your student profile, campus location, listings, and notification preferences.",
       },
-      { property: "og:title", content: "Student Profile — Book Swap SA" },
+      { property: "og:title", content: "Student Profile — Textbook Swap SA" },
     ],
   }),
   component: () => (

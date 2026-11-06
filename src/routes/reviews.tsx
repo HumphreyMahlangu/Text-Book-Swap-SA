@@ -9,13 +9,13 @@ import { cn } from "@/lib/utils";
 export const Route = createFileRoute("/reviews")({
   head: () => ({
     meta: [
-      { title: "Student Reviews & Trust — Book Swap SA" },
+      { title: "Student Reviews & Trust — Textbook Swap SA" },
       {
         name: "description",
         content:
           "Verified reviews and ratings from university students exchanging textbooks on campus.",
       },
-      { property: "og:title", content: "Student Reviews — Book Swap SA" },
+      { property: "og:title", content: "Student Reviews — Textbook Swap SA" },
     ],
   }),
   component: () => (

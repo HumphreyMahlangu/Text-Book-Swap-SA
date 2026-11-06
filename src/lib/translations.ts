@@ -78,7 +78,7 @@ export const translations = {
     noReviewsYet:
       "No reviews yet. Complete your first textbook sale or swap to start building your campus reputation.",
     displayAndLanguage: "Display & Language",
-    displayDescription: "Choose how Book Swap SA looks and your preferred language.",
+    displayDescription: "Choose how Textbook Swap SA looks and your preferred language.",
     preferredLanguage: "Preferred language",
     translationReady: "English, Afrikaans, isiNdebele, isiXhosa and isiZulu are supported.",
     notificationAlerts: "Notification Alerts",
@@ -95,7 +95,7 @@ export const translations = {
     studentEmailTitle: "Student Email",
     studentNumberTitle: "Student Number",
     primaryCampus: "Primary Campus",
-    signOutOfApp: "Sign out of Book Swap SA",
+    signOutOfApp: "Sign out of Textbook Swap SA",
     editStudentProfile: "Edit Student Profile",
     profileDialogDescription:
       "Keep your campus and contact details up to date for smooth textbook handovers.",
@@ -193,7 +193,7 @@ export const translations = {
     noReviewsYet:
       "Nog geen resensies nie. Voltooi jou eerste handboekverkoping of ruiling om jou kampusreputasie te bou.",
     displayAndLanguage: "Vertoon en taal",
-    displayDescription: "Kies hoe Book Swap SA lyk en jou voorkeurtaal.",
+    displayDescription: "Kies hoe Textbook Swap SA lyk en jou voorkeurtaal.",
     preferredLanguage: "Voorkeurtaal",
     translationReady: "Engels, Afrikaans, isiNdebele, isiXhosa en isiZulu word ondersteun.",
     notificationAlerts: "Kennisgewingwaarskuwings",
@@ -210,7 +210,7 @@ export const translations = {
     studentEmailTitle: "Studente-e-posadres",
     studentNumberTitle: "Studentenommer",
     primaryCampus: "Primêre kampus",
-    signOutOfApp: "Meld af by Book Swap SA",
+    signOutOfApp: "Meld af by Textbook Swap SA",
     editStudentProfile: "Wysig studenteprofiel",
     profileDialogDescription:
       "Hou jou kampus- en kontakbesonderhede op datum vir gladde handboekoorhandigings.",
@@ -310,7 +310,7 @@ export const translations = {
     noReviewsYet:
       "Akukho ukubuyekeza okwamanje. Qeda ukuthengisa namkha ukutjhentjha incwadi yakho yokuthoma ukuze wakhe idumo lakho ekhambasini.",
     displayAndLanguage: "Ukubonisa Nelimi",
-    displayDescription: "Khetha indlela i-Book Swap SA ebonakala ngayo nelimi olithandako.",
+    displayDescription: "Khetha indlela i-Textbook Swap SA ebonakala ngayo nelimi olithandako.",
     preferredLanguage: "Ilimi olithandako",
     translationReady: "IsiNgisi, isi-Afrikansi, isiNdebele, isiXhosa nesiZulu ngizo ezisekelwako.",
     notificationAlerts: "Iinyeleliso Zezaziso",
@@ -327,7 +327,7 @@ export const translations = {
     studentEmailTitle: "I-imeyili Yomfundi",
     studentNumberTitle: "Inomboro Yomfundi",
     primaryCampus: "Ikhampasi Eqakathekileko",
-    signOutOfApp: "Phuma ku-Book Swap SA",
+    signOutOfApp: "Phuma ku-Textbook Swap SA",
     editStudentProfile: "Hlela Iphrofayili Yomfundi",
     profileDialogDescription:
       "Gcina imininingwana yekhampasi neyokuthintana ivuselelwe ukuze ukunikelana ngeencwadi kube lula.",
@@ -426,7 +426,7 @@ export const translations = {
     noReviewsYet:
       "Akukho phononongo okwangoku. Gqibezela ukuthengisa okanye ukutshintshiselana ngencwadi yakho yokuqala ukuze wakhe udumo lwakho ekhampasini.",
     displayAndLanguage: "Imbonakalo nolwimi",
-    displayDescription: "Khetha indlela iBook Swap SA ekhangeleka ngayo nolwimi olukhethayo.",
+    displayDescription: "Khetha indlela iTextbook Swap SA ekhangeleka ngayo nolwimi olukhethayo.",
     preferredLanguage: "Ulwimi olukhethayo",
     translationReady: "IsiNgesi, isiBhulu, isiNdebele, isiXhosa nesiZulu ziyaxhaswa.",
     notificationAlerts: "Izilumkiso zezaziso",
@@ -443,7 +443,7 @@ export const translations = {
     studentEmailTitle: "I-imeyile yomfundi",
     studentNumberTitle: "Inombolo yomfundi",
     primaryCampus: "Ikhampasi ephambili",
-    signOutOfApp: "Phuma kwiBook Swap SA",
+    signOutOfApp: "Phuma kwiTextbook Swap SA",
     editStudentProfile: "Hlela iprofayile yomfundi",
     profileDialogDescription:
       "Gcina iinkcukacha zekhampasi nezonxibelelwano zisexesheni ukuze ukunikezelwa kweencwadi kube lula.",
@@ -542,7 +542,7 @@ export const translations = {
     noReviewsYet:
       "Azikho izibuyekezo okwamanje. Qedela ukuthengisa noma ukushintshisana ngencwadi yakho yokuqala ukuze wakhe isithunzi sakho ekhampasini.",
     displayAndLanguage: "Ukubonisa nolimi",
-    displayDescription: "Khetha indlela iBook Swap SA ebukeka ngayo nolimi oluthandayo.",
+    displayDescription: "Khetha indlela iTextbook Swap SA ebukeka ngayo nolimi oluthandayo.",
     preferredLanguage: "Ulimi oluthandayo",
     translationReady: "IsiNgisi, isiBhunu, isiNdebele, isiXhosa nesiZulu kuyasekelwa.",
     notificationAlerts: "Izexwayiso zezaziso",
@@ -559,7 +559,7 @@ export const translations = {
     studentEmailTitle: "I-imeyili yomfundi",
     studentNumberTitle: "Inombolo yomfundi",
     primaryCampus: "Ikhampasi eyinhloko",
-    signOutOfApp: "Phuma kuBook Swap SA",
+    signOutOfApp: "Phuma kuTextbook Swap SA",
     editStudentProfile: "Hlela iphrofayela yomfundi",
     profileDialogDescription:
       "Gcina imininingwane yekhampasi neyokuxhumana isesikhathini ukuze ukunikezelwa kwezincwadi kube lula.",

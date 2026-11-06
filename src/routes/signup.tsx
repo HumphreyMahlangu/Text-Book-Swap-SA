@@ -20,13 +20,13 @@ import { useDisplayPreferences } from "@/lib/display-preferences";
 export const Route = createFileRoute("/signup")({
   head: () => ({
     meta: [
-      { title: "Create account — Book Swap SA" },
+      { title: "Create account — Textbook Swap SA" },
       {
         name: "description",
         content:
           "Register with your student email to list, buy and swap second-hand textbooks on campus.",
       },
-      { property: "og:title", content: "Create account — Book Swap SA" },
+      { property: "og:title", content: "Create account — Textbook Swap SA" },
       { property: "og:description", content: "Join the student textbook marketplace." },
     ],
   }),

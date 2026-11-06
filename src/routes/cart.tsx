@@ -10,12 +10,12 @@ import { useApp } from "@/lib/data/store";
 export const Route = createFileRoute("/cart")({
   head: () => ({
     meta: [
-      { title: "Your cart — Book Swap SA" },
+      { title: "Your cart — Textbook Swap SA" },
       {
         name: "description",
         content: "Review the second-hand textbooks you plan to buy before checkout.",
       },
-      { property: "og:title", content: "Your cart — Book Swap SA" },
+      { property: "og:title", content: "Your cart — Textbook Swap SA" },
       {
         property: "og:description",
         content: "Review your selected used textbooks and continue to checkout.",

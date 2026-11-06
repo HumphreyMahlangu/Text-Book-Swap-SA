@@ -10,12 +10,12 @@ import { CATEGORIES } from "@/lib/data/types";
 export const Route = createFileRoute("/home")({
   head: () => ({
     meta: [
-      { title: "Home — Book Swap SA" },
+      { title: "Home — Textbook Swap SA" },
       {
         name: "description",
         content: "Your campus textbook marketplace dashboard: newest listings, swaps and orders.",
       },
-      { property: "og:title", content: "Home — Book Swap SA" },
+      { property: "og:title", content: "Home — Textbook Swap SA" },
       {
         property: "og:description",
         content: "Newest second-hand textbooks listed by students on your campus.",

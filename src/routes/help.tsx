@@ -22,13 +22,13 @@ import { Button } from "@/components/ui/button";
 export const Route = createFileRoute("/help")({
   head: () => ({
     meta: [
-      { title: "Help & Campus Safety — Book Swap SA" },
+      { title: "Help & Campus Safety — Textbook Swap SA" },
       {
         name: "description",
         content:
           "Frequently asked questions and safety guidelines for university textbook exchanges.",
       },
-      { property: "og:title", content: "Help & Campus Safety — Book Swap SA" },
+      { property: "og:title", content: "Help & Campus Safety — Textbook Swap SA" },
     ],
   }),
   component: () => (
@@ -53,7 +53,7 @@ function HelpPage() {
           <h2 className="text-base font-bold text-primary-dark">Safe Campus Meetup Guidelines</h2>
         </div>
         <p className="mt-1 text-xs text-muted-foreground leading-relaxed">
-          Book Swap SA connects students on the same or nearby campuses. Follow these
+          Textbook Swap SA connects students on the same or nearby campuses. Follow these
           recommendations for every in-person textbook handover:
         </p>
 
@@ -109,10 +109,10 @@ function HelpPage() {
 
           <AccordionItem value="item-2">
             <AccordionTrigger className="text-sm font-semibold text-left">
-              Does Book Swap SA charge transaction fees?
+              Does Textbook Swap SA charge transaction fees?
             </AccordionTrigger>
             <AccordionContent className="text-xs text-muted-foreground leading-relaxed">
-              No! Book Swap SA is designed for students by students. There are zero listing fees and
+              No! Textbook Swap SA is designed for students by students. There are zero listing fees and
               zero commission cuts on student textbook exchanges.
             </AccordionContent>
           </AccordionItem>

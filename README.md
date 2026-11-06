@@ -1,6 +1,6 @@
-# Book Swap SA
+# Textbook Swap SA
 
-Build a polished, fully working full-stack school project called “SecondHand Textbook Swap”. It is a student-to-student marketplace where South African university students can buy, sell, or swap used textbooks affordably. Use the supplied prototype’s visual direction: calm blue-grey palette (#4A6E88 primary, #3A4F62 dark, #629BB6 accent, #C9D5E3 light, #F5F8FA background), rounded cards, soft shadows, clean typography, and a mobile-first app feel. Make it responsive and presentation-ready on both phone and desktop. Do not make a static mockup: every visible control and core flow must work.
+Build a polished, fully working full-stack school project called “Textbook Swap SA”. It is a student-to-student marketplace where South African university students can buy, sell, or swap used textbooks affordably. Use the supplied prototype’s visual direction: calm blue-grey palette (#4A6E88 primary, #3A4F62 dark, #629BB6 accent, #C9D5E3 light, #F5F8FA background), rounded cards, soft shadows, clean typography, and a mobile-first app feel. Make it responsive and presentation-ready on both phone and desktop. Do not make a static mockup: every visible control and core flow must work.
 
 TECH STACK AND DATA
 
